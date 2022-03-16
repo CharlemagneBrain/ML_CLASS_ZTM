@@ -1,3 +1,3 @@
 # ML_CLASS_ZTM
-Apprentissage du Machine Learning avec Python et ses librairies pour la data-science (Jupyter/Pandas/Numpy/Matplotlib/Scikit-Learn)
-**DATASCIENCE BOOTCAMP 2021**
+### Workflow de bout en bout des librairies Python pour le Machine Learning (Jupyter/Pandas/Numpy/Matplotlib/Scikit-Learn) à l'aide de la formation 
+**ZERO TO MASTERY : DATASCIENCE BOOTCAMP 2021**
